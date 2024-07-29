@@ -19,6 +19,7 @@
 ## Nội Dụng Khoá Học.
 ### Buổi 1 -> 3.
 - Basic Data type
+
 #### Buổi 1.
 - biến & func
 1. khai báo biến và func
@@ -59,6 +60,7 @@
 - Xây dựng một project restapi crud
 1. build 1 structure cho mã nguồn
 2. Xử dụng Gin route
+
 #### Buổi 8.
 - CURD user
 1. Xử Lý Nhận Request Và Response
@@ -66,6 +68,7 @@
 <!-- 1. Xử Lý Lưu thông tin vào postgres database
 1. Xử lý logging
 2. Xử Lý Call Http Client. -->
+
 #### Buổi 9.
 - Xử lý nâng cao.
 1. Apply goroutine api check user
